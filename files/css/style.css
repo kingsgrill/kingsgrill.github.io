@@ -3940,6 +3940,7 @@
  }
 
  .zoomControlBar {
+    visibility: hidden;
      height: 40px;
      position: absolute;
      z-index: 5;
@@ -5279,6 +5280,7 @@
  }
 
  .flip_button_first {
+    visibility: hidden;
      position: absolute;
      cursor: pointer;
      right: auto;
@@ -5287,6 +5289,7 @@
  }
 
  .flip_button_last {
+    visibility: hidden;
      position: absolute;
      cursor: pointer;
      left: auto;
@@ -16269,6 +16272,7 @@
  }
 
  .bottomBar {
+    visibility: hidden;
      overflow: hidden;
      position: absolute;
      z-index: 99;
@@ -16440,6 +16444,7 @@
  }
 
  .thumbnail_progress {
+    visibility: hidden;
      text-align: center;
      position: absolute;
      z-index: 99;

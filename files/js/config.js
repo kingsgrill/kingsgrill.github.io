@@ -14,7 +14,7 @@ var htmlConfig = {
         "bookDescription": [],
         "ButtonsBar": [],
         "ShareButton": [],
-        "ShareButtonVisible": ["socialShareButtonVisible"],
+        "ShareButtonVisible": [],//["socialShareButtonVisible"],
         "ThumbnailsButton": [],
         "ThumbnailsButtonVisible": ["enableThumbnail"],
         "ZoomButton": [],
@@ -608,7 +608,7 @@ var htmlConfig = {
         "plugin": 0
     },
     "loadingConfig": {
-        "loadingBackground": "#323232",
+        "loadingBackground": "#ffffff00",
         "loadingCaptionColor": "#DDDDDD",
         "loadingCaption": "",
         "loadingCaptionFontSize": "20",
